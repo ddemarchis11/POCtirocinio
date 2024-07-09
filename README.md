@@ -1,0 +1,2 @@
+# POCtirocinio
+Questa repository contiene il codice completo per il progetto "POC: pipeline degli esiti di campagne di Marketing" discusso nel "Capitolo 5" della mia tesi di Laurea, di cui i risultati sono parzialmente discussi in "Appendice". La repository è comprensiva sia delle slide propedeutiche alla discussione della tesi che dei file finali in output da BigQuery, il tutto per una migliore comprensione del progetto nel suo complesso
