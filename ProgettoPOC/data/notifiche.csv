@@ -1,0 +1,31 @@
+id, DateTimeSend, deviceId, testo, status, SubscriberKey, activity_id
+1,"07/08/2024 15:09:51",1,"Ciao, scopri le nostre nuove offerte!","success",1,2
+2,"07/08/2024 19:06:09",2,"Ordine spedito!","failed",2,2
+3,"07/07/2024 18:52:46",3,"Il tuo abbonamento sta per scadere.","success",3,14
+4,"07/08/2024 22:00:38",4,"Ciao, scopri le nostre nuove offerte!","success",4,30
+5,"07/07/2024 22:28:44",5,"Il tuo abbonamento sta per scadere.","success",5,12
+6,"07/06/2024 04:18:36",6,"Non perdere il nostro webinar la prossima settimana.","failed",6,11
+7,"07/08/2024 08:03:25",7,"Sconto esclusivo solo per te!","success",7,29
+8,"07/07/2024 10:18:41",8,"Ordine spedito!","failed",8,14
+9,"07/06/2024 16:32:38",9,"Ciao, scopri le nostre nuove offerte!","success",9,18
+10,"07/07/2024 16:18:42",10,"Ciao, scopri le nostre nuove offerte!","success",10,25
+11,"07/08/2024 13:17:08",11,"Ordine spedito!","failed",1,14
+12,"07/06/2024 02:38:43",12,"Non perdere il nostro webinar la prossima settimana.","success",2,9
+13,"07/07/2024 10:29:49",13,"Ciao, scopri le nostre nuove offerte!","success",3,25
+14,"07/08/2024 17:05:43",14,"Il tuo abbonamento sta per scadere.","success",4,6
+15,"07/06/2024 12:41:04",15,"Ordine spedito!","failed",5,16
+16,"07/07/2024 11:53:44",16,"Ordine spedito!","failed",6,21
+17,"07/08/2024 19:49:51",17,"Ordine spedito!","failed",7,15
+18,"07/06/2024 15:35:18",18,"Non perdere il nostro webinar la prossima settimana.","success",8,10
+19,"07/07/2024 13:29:26",19,"Non perdere il nostro webinar la prossima settimana.","success",9,27
+20,"07/08/2024 19:07:16",20,"Il tuo abbonamento sta per scadere.","success",10,28
+21,"07/06/2024 16:04:23",21,"Il tuo abbonamento sta per scadere.","success",1,14
+22,"07/07/2024 06:43:52",22,"Ordine spedito!","failed",2,25
+23,"07/08/2024 17:49:28",23,"Ordine spedito!","failed",3,25
+24,"07/06/2024 00:18:31",24,"Il tuo abbonamento sta per scadere.","success",4,14
+25,"07/07/2024 05:52:09",25,"Ordine spedito!","success",5,26
+26,"07/08/2024 18:56:07",26,"Il tuo abbonamento sta per scadere.","success",6,1
+27,"07/06/2024 13:01:16",27,"Ciao, scopri le nostre nuove offerte!","success",7,14
+28,"07/07/2024 20:47:34",28,"Ciao, scopri le nostre nuove offerte!","success",8,18
+29,"07/08/2024 23:29:22",29,"Non perdere il nostro webinar la prossima settimana.","success",9,5
+30,"07/06/2024 02:24:13",30,"Non perdere il nostro webinar la prossima settimana.","success",10,29

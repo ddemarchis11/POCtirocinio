@@ -1,0 +1,8 @@
+project_id = "etl-tesi-domenico"
+project_number = "412154446110"
+region = "europe-west1"
+zone = "europe-west1-b"
+composer_image_version = "composer-2.1.14-airflow-2.5.1"
+sa_namespace= "sa-namespace"
+podoperator_sa = "podoperator-sa"
+environment = "dev"

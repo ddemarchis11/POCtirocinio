@@ -1,0 +1,6 @@
+/terraform/tf-sa.json
+/env
+/terraform/.terraform/
+.DS_Store
+creds.txt
+__pycache__/
